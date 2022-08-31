@@ -14,14 +14,13 @@
 }
 
 body {
-  margin: 0.8rem;
   font-size: 10px;
   border: 0.00000001px solid black;
 }
 
 .head {
   padding: 0.5rem;
-  min-height: 97vh;
+  min-height: 98vh;
   height: 100%;
   padding: 2rem auto;
   background-image: url("/images/bg2.jpg");
@@ -192,7 +191,7 @@ body {
 }
 .form3 .creat-btn{
   color: red;
-  margin: 1.5rem 1.4rem;
+  margin: 1rem 1rem;
   background-color: #C1CDCD;
 }
 
